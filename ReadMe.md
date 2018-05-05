@@ -8,6 +8,7 @@ RSV is the hottest, newest file format. It's like CSV but not at all like CSV.
 
 ## Example
 
+```
 name
 age
 gender,Tangent
@@ -15,5 +16,6 @@ gender,Tangent
 fluid,Jake (from State Farm)
 30?
 M (presumably)
+```
 
 Also included is the original example file from the reference implementation.
